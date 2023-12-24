@@ -1,4 +1,4 @@
-Hi 👋 My name is Panos Oikonomou
+Hi 👋 My name is Panos
 ================================
 
 Software Engineer
