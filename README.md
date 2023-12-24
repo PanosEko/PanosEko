@@ -31,6 +31,6 @@ Software Engineer
 
 <a href="http://www.github.com/PanosEko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PanosEko&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell&layout=donut&theme=dark)](https://github.com/PanosEko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell&layout=compact&theme=dark)](https://github.com/PanosEko/github-readme-stats)
 
 
