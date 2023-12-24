@@ -26,8 +26,9 @@ Software Engineer
 <div width="100%" align="center"><a href="https://github.com/PanosEko/JokerStats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PanosEko&repo=JokerStats&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PanosEko/OilPriceX" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PanosEko&repo=OilPriceX&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
-### My GitHub Stats
+<b>My Github stats</b>
 
 <a href="http://www.github.com/PanosEko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PanosEko&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
