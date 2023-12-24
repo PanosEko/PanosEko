@@ -35,3 +35,6 @@ Software Engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell&layout=donut)](https://github.com/PanosEko/github-readme-stats)
+
+
