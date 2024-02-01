@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Ioannina, Greece
-* 📫  You can contact me at [panosekonomu@gmail.com](mailto:panosekonomu@gmail.com)
+* 📫  You can contact me at [panos.oik@yahoo.com](mailto:panos.oik@yahoo.com)
 * 🔭  I'm currently working on [DevTrack](https://github.com/PanosEko/devtrack-frontend)
 
 <h2> 🚀 &nbsp;Languages and Tools I Have Used</h2>
