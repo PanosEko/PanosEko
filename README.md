@@ -15,11 +15,9 @@ Software Engineer
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell&layout=compact&theme=dark)](https://github.com/PanosEko/github-readme-stats)
+
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/panos-oikonomou-694419240/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosEko&hide=Batchfile,shell&layout=compact&theme=dark)](https://github.com/PanosEko/github-readme-stats)
-
 
